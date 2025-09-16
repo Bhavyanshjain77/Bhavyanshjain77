@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 💡 Passionate about coding, startups, and building amazing projects.  
 
 ---
+![banner](https://your-image-link.com/banner.png)
+
 
 ## 🚀 What I'm Learning
 - 🌱 Python, HTML, CSS, JavaScript
@@ -17,6 +19,10 @@ Here are some ideas to get you started:
 - 📚 Startup and Business Skills
 
 ---
+![HTML](https://img.shields.io/badge/Code-HTML-orange)
+![Python](https://img.shields.io/badge/Code-Python-blue)
+![Learning](https://img.shields.io/badge/Focus-Startup-success)
+
 
 ## 🛠️ My Skills
 - 💻 **Programming:** Python, HTML  
@@ -24,6 +30,8 @@ Here are some ideas to get you started:
 - 🤖 **Interests:** AI, Robotics, Websites
 
 ---
+![Bhavyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavyanshjain77&show_icons=true&theme=tokyonight)
+
 
 ## 📫 Connect with Me
 - 📧 **Email:** jainbhavyansh77@example.com
