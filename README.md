@@ -40,7 +40,7 @@
 ## 🌐 Connect with Me  
 <p align="center">
   <a href="https://bhavyanshjain77.github.io/my-profile/"><img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome"></a>
-  <a href="mailto:bhavyanshjain@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:jainbhavyansh77@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
