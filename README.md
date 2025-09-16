@@ -1,7 +1,8 @@
 ## Hi there 👋
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/9MIaZcV.gif" alt="Cool Banner" width="100%" />
+  <img src="banner.png" alt="Cool Banner" width="100%" />
+
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#ff6f61;">Bhavyansh Jain</span> </h1>
