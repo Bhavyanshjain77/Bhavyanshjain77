@@ -1,27 +1,25 @@
-## Hi there 👋
-<!-- Banner -->
-<p align="center">
-  <img src="banner.png" alt="Cool Banner" width="100%" />
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bhavyansh Jain</h1>
+<h4 align="center">Class 9 Student | 💻 Web Developer | 🚀 Future Entrepreneur</h4
+<p>
 
-</p>
-
-<h1 align="center">👋 Hi, I'm <span style="color:#ff6f61;">Bhavyansh Jain</span> </h1>
 
 <p align="center">
-  🎓 <b>Class 9 Student</b> | 💻 <b>Web Developer</b> | 🚀 <b>Future Entrepreneur</b>  
+<img align= "right" alt="Coding" width="480" height="auto"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="175px"/></a> 
 </p>
-
 ---
-
-<img align= "right" alt="Coding" width="480" height="auto"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="175px"/></a>
+<p>
 ## 🌟 About Me  
 - 🔭 I’m currently learning **Python, HTML, CSS, JavaScript**  
 - 💡 I love creating **cool projects** & experimenting with tech  
 - 🌱 Curious about **AI, Startups, and Robotics**  
 - ⚡ Fun fact: **I want to build my own startup someday!**
 - 📫 How to reach me: **jainbhavyansh77@gmail.com**
----
+</p>
+  --- 
 
+<!-- Banner -->
+<p align="center">
+  <img src="banner.png" alt="Cool Banner" width="80%" />
 
 ## 🚀 Languages and Tools:
 
