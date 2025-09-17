@@ -18,7 +18,7 @@
 - 💡 I love creating **cool projects** & experimenting with tech  
 - 🌱 Curious about **AI, Startups, and Robotics**  
 - ⚡ Fun fact: **I want to build my own startup someday!**
-
+- 📫 How to reach me: **jainbhavyansh77@gmail.com**
 ---
 
 
