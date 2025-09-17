@@ -13,6 +13,7 @@
 
 ---
 
+<img align= "right" alt="Coding" width="480" height="auto"  src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="175px"/></a>
 ## 🌟 About Me  
 - 🔭 I’m currently learning **Python, HTML, CSS, JavaScript**  
 - 💡 I love creating **cool projects** & experimenting with tech  
